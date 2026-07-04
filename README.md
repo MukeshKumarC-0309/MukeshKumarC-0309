@@ -5,9 +5,16 @@
   <br>
   Cybersecurity · AI/ML · Data Science
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 ---
  
-### About Me
+### 🔎 About Me
  
 I'm a CS student building toward a career in cybersecurity, currently exploring **digital forensics, incident response, and threat hunting**, with AI/ML and data science as a complementary skill set. I learn by doing — solving CTFs, writing up forensic and web exploitation challenges, and building small tools from first principles to understand what security tooling actually does under the hood rather than just operating it as a black box.
  
@@ -48,6 +55,9 @@ Alongside security, I'm building a working foundation in AI/ML through structure
  
 ---
  
-### What I'm Focused On Right Now
+### 🎯 What I'm Focused On Right Now
  
 Building depth in digital forensics and incident response, working through the eJPT syllabus, and continuing to deepen AI/ML through structured coursework — with the goal of a security-focused internship where both of these skill sets are useful together.
+ 
+
+
