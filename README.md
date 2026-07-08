@@ -18,7 +18,7 @@
 
 ### 🔎 About Me
 
-I'm a CS student building toward a career in cybersecurity, currently exploring **digital forensics, incident response, and threat hunting**, with AI/ML and data science as a complementary skill set. I learn by doing — solving CTFs, writing up forensic and web exploitation challenges, and building small tools from first principles to understand what security tooling actually does under the hood rather than just operating it as a black box.
+I'm a CS student building toward a career in **SOC / blue-team analysis**, currently exploring **digital forensics, incident response, and threat hunting**, with AI/ML and data science as a complementary skill set. I learn by doing — solving CTFs, writing up forensic and web exploitation challenges, and building small tools from first principles to understand what security tooling actually does under the hood rather than just operating it as a black box.
 
 Alongside security, I'm building a working foundation in AI/ML through structured coursework — data pipelines, regression models, and decision trees — because a lot of modern security work (anomaly detection, log analysis at scale) sits at the intersection of the two.
 
@@ -39,9 +39,9 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 **AI/ML & Data:** pandas, NumPy, scikit-learn, matplotlib
 
-**Dev & Workflow:** Git, GitHub, Postman, curl, n8n
+**Dev & Workflow:** Git, GitHub, Postman, curl, n8n, CrewAI, LangGraph *(in progress)*
 
-**Core Concepts:** OSI Model, CIA Triad, Hashing & Cryptography, Web Exploitation, Digital Forensics, REST APIs
+**Core Concepts:** OSI Model, CIA Triad, Hashing & Cryptography, Web Exploitation, Digital Forensics, SIEM & Log Analysis (in progress via SAL1), REST APIs
 
 ---
 
