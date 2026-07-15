@@ -49,12 +49,15 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 | Repo | What's in it |
 |---|---|
-| [**Cybersecurity-tools**](https://github.com/MukeshKumarC-0309/Cybersecurity-tools) | Raw-socket network tools built from first principles — a TCP client/server, a service banner grabber, and a port scanner |
+| [**Weather-Dashboard**](https://github.com/MukeshKumarC-0309/Weather-Dashboard) | Weather lookup by city or geolocation, built on the OpenWeatherMap API |
+| [**My_CTF_Challenge**](https://github.com/MukeshKumarC-0309/My_CTF_Challenge) | A CTF challenge built and deployed for ISTE's cybersecurity domain |
+| [**CyberSecurity-Tools**](https://github.com/MukeshKumarC-0309/CyberSecurity-Tools) | Raw-socket network tools built from first principles — a TCP client/server, a service banner grabber, and a port scanner |
 | [**CyberSecurityJourney**](https://github.com/MukeshKumarC-0309/CyberSecurityJourney) | A self-designed 60-day study log covering networking fundamentals, Windows internals, PowerShell, the registry, and a documented Bandit walkthrough |
 | [**PicoCTF_Writeups**](https://github.com/MukeshKumarC-0309/PicoCTF_Writeups) | picoCTF writeups organized by category — Cryptography, Forensics, Linux Basics, Web Exploitation |
 | [**MIST_SummerSchool**](https://github.com/MukeshKumarC-0309/MIST_SummerSchool) | Forensics and web exploitation writeups from MIST Summer School |
 | [**Synergy_TP**](https://github.com/MukeshKumarC-0309/Synergy_TP) | A structured AI/ML task phase — data parsing, cleaning, visualization, and statistical analysis across sequential tasks |
 | [**pwn.college_MukeshKumarC**](https://github.com/MukeshKumarC-0309/pwn.college_MukeshKumarC) | Linux and command-line fundamentals, organized by topic |
+| [**MIST_TASKPHASE_MukeshKumarC**](https://github.com/MukeshKumarC-0309/MIST_TASKPHASE_MukeshKumarC) | Task phase notes and writeups |
 | [**MukeshKumarC_Phase2**](https://github.com/MukeshKumarC-0309/MukeshKumarC_Phase2) | Additional picoCTF writeups spanning Binary Exploitation, Cryptography, Forensics, Hardware, and Reverse Engineering |
 
 ---
