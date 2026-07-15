@@ -49,7 +49,7 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 | Repo | What's in it |
 |---|---|
-| [**CTF_Writeups**](https://github.com/MukeshKumarC-0309/CTF_Writeups) | CTF challenge writeups organized by category — Web Exploitation, Forensics, Cryptography, Linux Basics, Binary Exploitation, Reverse Engineering, and Hardware — sourced from picoCTF and Root-Me |
+| [**CTF_Writeups**](https://github.com/MukeshKumarC-0309/CTF_Writeups) | 78 CTF challenge writeups organized by category — Web Exploitation, Forensics, Cryptography, Linux Basics, Binary Exploitation, Reverse Engineering, and Hardware — sourced from picoCTF, Root-Me, and CryptoHack |
 | [**Linux_Fundamentals**](https://github.com/MukeshKumarC-0309/Linux_Fundamentals) | 100+ structured notes covering core Linux command-line skills — permissions, piping, scripting, process management, and users |
 | [**My_CTF_Challenge**](https://github.com/MukeshKumarC-0309/My_CTF_Challenge) | "Byte & Brew Cafe" — a CTF challenge built and deployed for ISTE's cybersecurity domain, featuring a client-side SQL injection gating a polyglot PDF artifact |
 | [**CyberSecurity-Tools**](https://github.com/MukeshKumarC-0309/CyberSecurity-Tools) | Raw-socket network tools built from first principles — a TCP client/server, a service banner grabber, and a port scanner |
