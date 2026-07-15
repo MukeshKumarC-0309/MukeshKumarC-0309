@@ -26,7 +26,7 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 - 🤖 Also building: AI/ML fundamentals through hands-on data pipeline work
 - 🧠 Working toward: **SAL1 (Security Analyst Level 1)** and **CompTIA Security+**
 - 📚 Followed a self-designed 60-day ethical hacking study framework, including a documented OverTheWire Bandit walkthrough — [see the log](https://github.com/MukeshKumarC-0309/CyberSecurityJourney)
-- 🏆 Active on [TryHackMe](https://tryhackme.com/p/mukeshkumarc0309) — climbing steadily, room by room
+- 🏆 Active on [TryHackMe](https://tryhackme.com/p/mukeshkumarc0309) — top 15% globally, climbing steadily, room by room
 - 💬 Happy to talk about: CTF writeups, digital forensics, or Python networking fundamentals
 
 ---
@@ -49,19 +49,16 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 | Repo | What's in it |
 |---|---|
-| [**Weather-Dashboard**](https://github.com/MukeshKumarC-0309/Weather-Dashboard) | Weather lookup by city or geolocation, built on the OpenWeatherMap API |
-| [**My_CTF_Challenge**](https://github.com/MukeshKumarC-0309/My_CTF_Challenge) | A CTF challenge built and deployed for ISTE's cybersecurity domain |
+| [**CTF_Writeups**](https://github.com/MukeshKumarC-0309/CTF_Writeups) | CTF challenge writeups organized by category — Web Exploitation, Forensics, Cryptography, Linux Basics, Binary Exploitation, Reverse Engineering, and Hardware — sourced from picoCTF and Root-Me |
+| [**Linux_Fundamentals**](https://github.com/MukeshKumarC-0309/Linux_Fundamentals) | 100+ structured notes covering core Linux command-line skills — permissions, piping, scripting, process management, and users |
+| [**My_CTF_Challenge**](https://github.com/MukeshKumarC-0309/My_CTF_Challenge) | "Byte & Brew Cafe" — a CTF challenge built and deployed for ISTE's cybersecurity domain, featuring a client-side SQL injection gating a polyglot PDF artifact |
 | [**CyberSecurity-Tools**](https://github.com/MukeshKumarC-0309/CyberSecurity-Tools) | Raw-socket network tools built from first principles — a TCP client/server, a service banner grabber, and a port scanner |
 | [**CyberSecurityJourney**](https://github.com/MukeshKumarC-0309/CyberSecurityJourney) | A self-designed 60-day study log covering networking fundamentals, Windows internals, PowerShell, the registry, and a documented Bandit walkthrough |
-| [**PicoCTF_Writeups**](https://github.com/MukeshKumarC-0309/PicoCTF_Writeups) | picoCTF writeups organized by category — Cryptography, Forensics, Linux Basics, Web Exploitation |
-| [**MIST_SummerSchool**](https://github.com/MukeshKumarC-0309/MIST_SummerSchool) | Forensics and web exploitation writeups from MIST Summer School |
-| [**Synergy_TP**](https://github.com/MukeshKumarC-0309/Synergy_TP) | A structured AI/ML task phase — data parsing, cleaning, visualization, and statistical analysis across sequential tasks |
-| [**pwn.college_MukeshKumarC**](https://github.com/MukeshKumarC-0309/pwn.college_MukeshKumarC) | Linux and command-line fundamentals, organized by topic |
-| [**MIST_TASKPHASE_MukeshKumarC**](https://github.com/MukeshKumarC-0309/MIST_TASKPHASE_MukeshKumarC) | Task phase notes and writeups |
-| [**MukeshKumarC_Phase2**](https://github.com/MukeshKumarC-0309/MukeshKumarC_Phase2) | Additional picoCTF writeups spanning Binary Exploitation, Cryptography, Forensics, Hardware, and Reverse Engineering |
+| [**Synergy_TP**](https://github.com/MukeshKumarC-0309/Synergy_TP) | ISTE Synergy AI/ML task phase — data parsing, cleaning, visualization, and a from-scratch ML pipeline across sequential tasks |
+| [**Weather-Dashboard**](https://github.com/MukeshKumarC-0309/Weather-Dashboard) | Weather lookup by city or geolocation, built on the OpenWeatherMap API |
 
 ---
 
 ### 🎯 What I'm Focused On Right Now
 
-Building depth in digital forensics and incident response, working through the SAL1 and Security+ syllabi, and continuing to deepen AI/ML through structured coursework — with the goal of a blue-team/SOC-focused internship where both of these skill sets are useful together.
+Building depth in digital forensics and incident response, working through the SAL1 and Security+ syllabi, and building **PANDA TDR** — a multi-agent threat detection and response system on CrewAI — alongside continuing to deepen AI/ML through structured coursework. The goal is a blue-team/SOC-focused internship where both skill sets come together.
