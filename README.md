@@ -30,8 +30,17 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 - 🤖 Also building: AI/ML fundamentals through hands-on data pipeline work
 - 🧠 Working toward: **SAL1 (Security Analyst Level 1)** and **CompTIA Security+**
 - 📚 Followed a self-designed 60-day ethical hacking study framework, including a documented OverTheWire Bandit walkthrough — [see the log](https://github.com/MukeshKumarC-0309/CyberSecurityJourney)
-- 🏆 Active on [TryHackMe](https://tryhackme.com/p/mukeshkumarc0309) — top 15% globally, climbing steadily, room by room
+- 🏆 Active on [TryHackMe](https://tryhackme.com/p/mukeshkumarc0309) — top 8% globally, climbing steadily, room by room
 - 💬 Happy to talk about: CTF writeups, digital forensics, or Python networking fundamentals
+
+---
+
+### 📊 Live Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=2DD4BF&text_color=333333&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&hide_border=true&title_color=1D4E89&text_color=333333&bg_color=00000000" />
+</p>
 
 ---
 
