@@ -1,21 +1,5 @@
-<h1 align="center">Hi, I'm Mukesh 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;200%2B+Documented+CTF+Writeups" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  B.Tech Computer Science Engineering @ MIT Manipal
-  <br>
-  Cybersecurity · AI/ML · Data Science
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="./soc-banner.svg" alt="Mukesh Kumar C — SOC Console" width="100%" />
 </p>
 
 ---
@@ -32,15 +16,6 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 - 📚 Followed a self-designed 60-day ethical hacking study framework, including a documented OverTheWire Bandit walkthrough — [see the log](https://github.com/MukeshKumarC-0309/CyberSecurityJourney)
 - 🏆 Active on [TryHackMe](https://tryhackme.com/p/mukeshkumarc0309) — top 8% globally, climbing steadily, room by room
 - 💬 Happy to talk about: CTF writeups, digital forensics, or Python networking fundamentals
-
----
-
-### 📊 Live Stats
-
-<p align="center">
-  <img height="165" src="github-readme-stats-psi-three-48.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=2DD4BF&text_color=333333&bg_color=00000000" />
-  <img height="165" src="github-readme-stats-psi-three-48.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&hide_border=true&title_color=1D4E89&text_color=333333&bg_color=00000000" />
-</p>
 
 ---
 
