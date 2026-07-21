@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Mukesh 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;200%2B+Documented+CTF+Writeups" alt="Typing SVG" />
+</p>
+
+<p align="center">
   B.Tech Computer Science Engineering @ MIT Manipal
   <br>
   Cybersecurity · AI/ML · Data Science
