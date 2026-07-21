@@ -1,5 +1,21 @@
+<h1 align="center">Hi, I'm Mukesh 👋</h1>
+
 <p align="center">
-  <img src="./soc-banner.svg" alt="Mukesh Kumar C — SOC Console" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;200%2B+Documented+CTF+Writeups" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  B.Tech Computer Science Engineering @ MIT Manipal
+  <br>
+  Cybersecurity · AI/ML · Data Science
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
