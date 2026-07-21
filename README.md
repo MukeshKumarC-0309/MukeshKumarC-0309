@@ -38,8 +38,8 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 ### 📊 Live Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=2DD4BF&text_color=333333&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&hide_border=true&title_color=1D4E89&text_color=333333&bg_color=00000000" />
+  <img height="165" src="github-readme-stats-psi-three-48.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=2DD4BF&text_color=333333&bg_color=00000000" />
+  <img height="165" src="github-readme-stats-psi-three-48.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&hide_border=true&title_color=1D4E89&text_color=333333&bg_color=00000000" />
 </p>
 
 ---
