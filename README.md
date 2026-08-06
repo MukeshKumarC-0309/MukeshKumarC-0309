@@ -65,4 +65,5 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 ### 🎯 What I'm Focused On Right Now
 
-Building depth in digital forensics and incident response, working through the SAL1 and Security+ syllabi, and building **PANDA TDR** — a multi-agent threat detection and response system on CrewAI — alongside continuing to deepen AI/ML through structured coursework. The goal is a blue-team/SOC-focused internship where both skill sets come together.
+Building depth in digital forensics and incident response, working through the SAL1 and Security+ syllabi, and building **PANDA TDR** — a multi-agent threat detection and response system on CrewAI — alongside continuing to deepen AI/ML through structured coursework. The goal is a blue-team/SOC-focused internship where both skill sets come together.          
+You can check out my portfolio at mukeshkumarc-portfolio.netlify.app          
