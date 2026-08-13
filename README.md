@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mukesh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;200%2B+Documented+CTF+Writeups" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;74%2B+Documented+CTF+Writeups" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 - 🔐 Currently deepening: digital forensics, network analysis, and applied Python for security
 - 🤖 Also building: AI/ML fundamentals through hands-on data pipeline work
-- 🧠 Working toward: **SAL1 (Security Analyst Level 1)** and **CompTIA Security+**
+- 🧠 **SAL1 (Security Analyst Level 1) Professional Certification — passed** · now working through CompTIA Security+
 - 📚 Followed a self-designed 60-day ethical hacking study framework, including a documented OverTheWire Bandit walkthrough — [see the log](https://github.com/MukeshKumarC-0309/CyberSecurityJourney)
-- 🏆 Active on [TryHackMe](https://tryhackme.com/p/mukeshkumarc0309) — top 4% globally, climbing steadily, room by room
+- 🏆 Active on [TryHackMe](https://tryhackme.com/p/mukeshkumarc0309) — top 3% globally, climbing steadily, room by room
 - 💬 Happy to talk about: CTF writeups, digital forensics, or Python networking fundamentals
 
 ---
@@ -39,13 +39,13 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 **Languages:** Python, Java
 
-**Security Tools:** Wireshark, Burp Suite, Nmap, Shodan, theHarvester, hashlib
+**Security Tools:** Wireshark, NetworkMiner, Splunk, Elastic Stack, Burp Suite, Nmap, Shodan, theHarvester, hashlib
 
 **AI/ML & Data:** pandas, NumPy, scikit-learn, matplotlib
 
 **Dev & Workflow:** Git, GitHub, Postman, curl, n8n, CrewAI, LangGraph *(in progress)*
 
-**Core Concepts:** OSI Model, CIA Triad, Hashing & Cryptography, Web Exploitation, Digital Forensics, SIEM & Log Analysis (in progress via SAL1), REST APIs
+**Core Concepts:** OSI Model, CIA Triad, MITRE ATT&CK, Cyber Kill Chain, Hashing & Cryptography, Web Exploitation, Digital Forensics, SIEM & Log Analysis, REST APIs
 
 ---
 
@@ -53,8 +53,8 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 | Repo | What's in it |
 |---|---|
-| [**CTF_Writeups**](https://github.com/MukeshKumarC-0309/CTF_Writeups) | 78 CTF challenge writeups organized by category — Web Exploitation, Forensics, Cryptography, Linux Basics, Binary Exploitation, Reverse Engineering, and Hardware — sourced from picoCTF, Root-Me, and CryptoHack |
-| [**Linux_Fundamentals**](https://github.com/MukeshKumarC-0309/Linux_Fundamentals) | 100+ structured notes covering core Linux command-line skills — permissions, piping, scripting, process management, and users |
+| [**CTF_Writeups**](https://github.com/MukeshKumarC-0309/CTF_Writeups) | 74+ CTF challenge writeups organized by category — Web Exploitation, Forensics, Cryptography, Binary Exploitation, Reverse Engineering, and Hardware — sourced from picoCTF and Root-Me |
+| [**Linux_Fundamentals**](https://github.com/MukeshKumarC-0309/Linux_Fundamentals) | 116 individually documented Linux/command-line challenge solutions, plus a full 24-level OverTheWire Bandit walkthrough (140 challenges total) |
 | [**My_CTF_Challenge**](https://github.com/MukeshKumarC-0309/My_CTF_Challenge) | "Byte & Brew Cafe" — a CTF challenge built and deployed for ISTE's cybersecurity domain, featuring a client-side SQL injection gating a polyglot PDF artifact |
 | [**CyberSecurity-Tools**](https://github.com/MukeshKumarC-0309/CyberSecurity-Tools) | Raw-socket network tools built from first principles — a TCP client/server, a service banner grabber, and a port scanner |
 | [**CyberSecurityJourney**](https://github.com/MukeshKumarC-0309/CyberSecurityJourney) | A self-designed 60-day study log covering networking fundamentals, Windows internals, PowerShell, the registry, and a documented Bandit walkthrough |
@@ -65,5 +65,5 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 ### 🎯 What I'm Focused On Right Now
 
-Building depth in digital forensics and incident response, working through the SAL1 and Security+ syllabi, and building **PANDA TDR** — a multi-agent threat detection and response system on CrewAI — alongside continuing to deepen AI/ML through structured coursework. The goal is a blue-team/SOC-focused internship where both skill sets come together.          
-You can check out my portfolio at [MukeshKumarC-Portfolio](https://mukeshkumarc-portoflio.netlify.app/)                            
+Having completed SAL1, I'm now working through the Security+ syllabus, building depth in digital forensics and incident response, and building **PANDA TDR** — a multi-agent threat detection and response system on CrewAI — alongside continuing to deepen AI/ML through structured coursework. The goal is a blue-team/SOC-focused internship where both skill sets come together.
+You can check out my portfolio at [MukeshKumarC-Portfolio](https://mukeshkumarc-portoflio.netlify.app/)
