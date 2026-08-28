@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mukesh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;74%2B+Documented+CTF+Writeups" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;91%2B+Documented+CTF+Writeups" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -49,17 +49,15 @@ Alongside security, I'm building a working foundation in AI/ML through structure
 
 ---
 
-### 📌 Repositories
+### 📌 Pinned
 
 | Repo | What's in it |
 |---|---|
-| [**CTF_Writeups**](https://github.com/MukeshKumarC-0309/CTF_Writeups) | 74+ CTF challenge writeups organized by category — Web Exploitation, Forensics, Cryptography, Binary Exploitation, Reverse Engineering, and Hardware — sourced from picoCTF and Root-Me |
-| [**Linux_Fundamentals**](https://github.com/MukeshKumarC-0309/Linux_Fundamentals) | 116 individually documented Linux/command-line challenge solutions, plus a full 24-level OverTheWire Bandit walkthrough (140 challenges total) |
+| [**P.A.N.D.A**](https://github.com/MukeshKumarC-0309/P.A.N.D.A) | A local-first security platform in Python — one hardened core, two capabilities: an encrypted per-device Vault and a TDR detection engine that turns honeypot + Windows telemetry into confidence-graded incident cases. Offline and deterministic by default |
+| [**IOC_Enrich**](https://github.com/MukeshKumarC-0309/IOC_Enrich) | A single-indicator (IP/domain) threat-intel enrichment tool querying AbuseIPDB, VirusTotal, and URLhaus, aggregating verdicts with deterministic rules and mapping findings to MITRE ATT&CK for an analyst-readable triage recommendation |
+| [**CTF_Writeups**](https://github.com/MukeshKumarC-0309/CTF_Writeups) | 91 CTF challenge writeups organized by category — Web Exploitation, Forensics, Cryptography, Binary Exploitation, Reverse Engineering, and Hardware — sourced from picoCTF, Root-Me, and CryptoHack |
 | [**My_CTF_Challenge**](https://github.com/MukeshKumarC-0309/My_CTF_Challenge) | "Byte & Brew Cafe" — a CTF challenge built and deployed for ISTE's cybersecurity domain, featuring a client-side SQL injection gating a polyglot PDF artifact |
-| [**CyberSecurity-Tools**](https://github.com/MukeshKumarC-0309/CyberSecurity-Tools) | Raw-socket network tools built from first principles — a TCP client/server, a service banner grabber, and a port scanner |
-| [**CyberSecurityJourney**](https://github.com/MukeshKumarC-0309/CyberSecurityJourney) | A self-designed 60-day study log covering networking fundamentals, Windows internals, PowerShell, the registry, and a documented Bandit walkthrough |
-| [**Synergy_TP**](https://github.com/MukeshKumarC-0309/Synergy_TP) | ISTE Synergy AI/ML task phase — data parsing, cleaning, visualization, and a from-scratch ML pipeline across sequential tasks |
-| [**Weather-Dashboard**](https://github.com/MukeshKumarC-0309/Weather-Dashboard) | Weather lookup by city or geolocation, built on the OpenWeatherMap API |
+| [**CyberSecurity-Tools**](https://github.com/MukeshKumarC-0309/CyberSecurity-Tools) | Raw-socket network tools built from first principles in pure Python — a TCP client/server, a service banner grabber, and a connect-scan port scanner |
 
 ---
 
