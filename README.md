@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=160&section=header&text=Mukesh%20Kumar%20C&fontSize=42&fontColor=0E7490&fontAlignY=35&desc=Aspiring%20SOC%20Analyst%20%7C%20DFIR%20%7C%20AI%2FML&descAlignY=55&descColor=5B21B6&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=400&colors=0E7490,5B21B6,9D174D,0E7490&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;91%2B+Documented+CTF+Writeups" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Mukesh%20Kumar%20C&fontSize=42&fontColor=0E7490&fontAlignY=32&desc=Aspiring%20SOC%20Analyst%20%7C%20DFIR%20%7C%20AI%2FML&descAlignY=48&descColor=5B21B6&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=400&colors=0E7490,5B21B6,9D174D,0E7490&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;91%2B+Documented+CTF+Writeups" alt="Typing SVG" style="margin-top:-40px"/>
 
 <p>
   B.Tech Computer Science Engineering @ MIT Manipal<br/>
