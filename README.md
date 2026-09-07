@@ -82,10 +82,10 @@ Having completed SAL1, I'm now working through the Security+ syllabus, building 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=MukeshKumarC-0309&theme=tokyonight&hide_border=true&background=0F0C29&stroke=0E7490&ring=5B21B6&fire=9D174D&currStreakLabel=0E7490" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
