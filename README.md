@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=160&section=header&text=Mukesh%20Kumar%20C&fontSize=42&fontColor=0E7490&fontAlignY=35&desc=Aspiring%20SOC%20Analyst%20%7C%20DFIR%20%7C%20AI%2FML&descAlignY=55&descColor=5B21B6&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&colors=0E7490,5B21B6,9D174D,0E7490&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;91%2B+Documented+CTF+Writeups" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=400&colors=0E7490,5B21B6,9D174D,0E7490&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Digital+Forensics+%26+Incident+Response;Building+PANDA+TDR+-+Multi-Agent+Threat+Detection;91%2B+Documented+CTF+Writeups" alt="Typing SVG" />
 
 <p>
   B.Tech Computer Science Engineering @ MIT Manipal<br/>
@@ -82,10 +82,10 @@ Having completed SAL1, I'm now working through the Security+ syllabus, building 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=0E7490&icon_color=5B21B6&text_color=e9e9ed" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=MukeshKumarC-0309&theme=tokyonight&hide_border=true&background=0F0C29&stroke=0E7490&ring=5B21B6&fire=9D174D&currStreakLabel=0E7490" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=0E7490&text_color=e9e9ed" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
