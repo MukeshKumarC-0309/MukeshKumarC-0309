@@ -84,7 +84,7 @@ Having completed SAL1, I'm now working through the Security+ syllabus, building 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MukeshKumarC-0309&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=0E7490&icon_color=5B21B6&text_color=e9e9ed" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshKumarC-0309&theme=tokyonight&hide_border=true&background=0F0C29&stroke=0E7490&ring=5B21B6&fire=9D174D&currStreakLabel=0E7490" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=MukeshKumarC-0309&theme=tokyonight&hide_border=true&background=0F0C29&stroke=0E7490&ring=5B21B6&fire=9D174D&currStreakLabel=0E7490" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumarC-0309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=0E7490&text_color=e9e9ed" width="40%"/>
 
